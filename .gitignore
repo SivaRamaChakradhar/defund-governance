@@ -1,0 +1,17 @@
+node_modules/
+dist/
+build/
+artifacts/
+cache/
+typechain-types/
+.env
+.env.local
+.env.*.local
+*.log
+*.swp
+*.swo
+*~
+.DS_Store
+coverage/
+gas-report.txt
+.coverage_artifacts/
