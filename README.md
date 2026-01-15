@@ -180,7 +180,7 @@ This ensures that a 100x stake increase yields only 10x voting power increase.
 
 ```bash
 git clone https://github.com/sivaramachakradhar/defund-governance.git
-cd cryptoventures-dao
+cd defund-governance
 ```
 
 ### 2. Install Dependencies
